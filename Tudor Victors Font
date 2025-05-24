@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Tudor Victors';
+  src: url('TudorVictors.woff2') format('woff2'),
+       url('TudorVictors.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Tudor Victors', sans-serif;
+}
