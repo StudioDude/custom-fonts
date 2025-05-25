@@ -1,7 +1,8 @@
 @font-face {
   font-family: 'Tudor Victors';
   src: url('TudorVictors.woff2') format('woff2'),
-       url('TudorVictors.woff') format('woff');
+       url('TudorVictors.woff') format('woff'),
+       url('TudorVictors.ttf') format('truetype'); /* Optional */
   font-weight: normal;
   font-style: normal;
 }
