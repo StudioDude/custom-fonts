@@ -1,1 +1,11 @@
+@font-face {
+  font-family: 'Tudor Victors';
+  src: url('Analogist.otf.woff2') format('otf'),
+       url('Analogist.ttf') format('ttf'),
+  font-weight: normal;
+  font-style: normal;
+}
 
+body {
+  font-family: 'Tudor Victors', sans-serif;
+}
